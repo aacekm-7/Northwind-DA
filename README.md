@@ -1,5 +1,4 @@
-# Northwind: Dashboard de Rendimiento de Ventas y Catálogo de Productos
-# 📊 Northwind — Sales Analysis | SQL & Power BI
+# 📊 Northwind: Dashboard de Rendimiento de Ventas y Catálogo de Productos
 
 Análisis de datos empresariales utilizando la base de datos **Northwind**, integrando **SQL, Power Query, DAX y Power BI** para transformar datos transaccionales en indicadores y visualizaciones orientadas a la toma de decisiones.
 
