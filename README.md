@@ -42,8 +42,9 @@ La solución combina **SQL para extracción y análisis de datos** con **Power B
 | 📦 Unidades vendidas | **25,489** |
 | 🧾 Órdenes | **1,059** |
 | 💵 Ticket promedio | **$621.71** |
-| 📊 STDEV por venta | **$823.91** |
 | 📈 Crecimiento YoY | **190.4%** |
+| 📊 STDEV por venta | **$823.91** |
+
 
 ### 📦 Productos
 
